@@ -1,4 +1,30 @@
 
+
+#SITEGUARD_PLUGIN_SETTINGS_START
+#==== SITEGUARD_RENAME_LOGIN_SETTINGS_START
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteBase /wordpress/
+    RewriteRule ^wp-signup\.php 404-siteguard [L]
+    RewriteRule ^wp-activate\.php 404-siteguard [L]
+    RewriteRule ^login_27670(.*)$ wp-login.php$1 [L]
+</IfModule>
+#==== SITEGUARD_RENAME_LOGIN_SETTINGS_END
+#==== SITEGUARD_ADMIN_FILTER_SETTINGS_START
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteBase /wordpress/
+    RewriteRule ^404-siteguard - [L]
+    RewriteRule ^wp-admin/css - [L]
+    RewriteRule ^wp-admin/images - [L]
+    RewriteRule ^wp-admin/admin-ajax.php - [L]
+    RewriteCond %{REMOTE_ADDR} !^(127\.0\.0\.1|::1)$
+    RewriteCond %{REMOTE_ADDR} !^::1$
+    RewriteRule ^wp-admin 404-siteguard [L]
+</IfModule>
+#==== SITEGUARD_ADMIN_FILTER_SETTINGS_END
+#SITEGUARD_PLUGIN_SETTINGS_END
+
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
