@@ -1,0 +1,67 @@
+== CHANGE LOG ==
+= 3.0.1 =
+ - Fix - Frontpage Category issue fixed
+ - Update - Pot file updated
+
+= 3.0 =
+- Update - Theme Option settings moved to Customizer as of WordPress guidelines
+
+= 2.0.2 =
+ - Fix - Multiple H1 tag in entry-title replaced to H2 tag
+ - Update - screen-reader-text css class added
+
+= 2.0.1 =
+ - Fix - Heading tag placement fixed for better SEO
+ - Fix - bbPress comment edit issue fixed
+
+= 2.0 =
+ - Fix - Decrepted notice issue fixed in widgets for WordPress 4.3
+ - Update - video/comment section spacing fixed
+
+= 1.0.9 =
+ - Fix - Recent Entries/Comments widget display issue fixed
+ - Fix - esc unknown variables
+
+= 1.0.8 =
+ - Fix - Unwanted file removed
+
+= 1.0.7 =
+ - Fix - Broken the_title hook fixed
+ - Update - Minor file changed
+ - Update - Featured Slider Title tag changed to h2
+
+= 1.0.6 =
+ - Update - Custom CSS sanitized with wp_filter_nohtml_kses()
+ - Update - Some CSS added to support contact form 7
+
+= 1.0.5 =
+ - Update - html5 updated to version 3.7.2
+ - Fix - Empty Tagline display issue fixed
+
+= 1.0.4 =
+ - Google font issue fixed 
+ - Footer credit link issue fixed
+ - Recommended title-tag function implemented for WordPress 4.1 and above
+
+= 1.0.3 =
+ - Missing translation added
+ - Google structure data testing issue fixed
+
+= 1.0.2 =
+ - bbPress compatible
+ - Language translation added for some fields
+ - Pot file updated
+
+= 1.0.1 =
+ - Removed shortcodes plugin-territory function
+ - add_editor_style() added
+ - get_bloginfo('url') changed to esc_url( home_url() )
+ - Header Image position issue fixed.
+ - Page Tile issue fixed for pages.
+ - Screenshot edited.
+ - Minor CSS edited.
+
+= 1.0 =
+ - Initial Release
+
+=================================================================================
