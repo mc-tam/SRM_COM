@@ -1,0 +1,858 @@
+# Translation of BizVektor Global Edition in Japanese
+# This file is distributed under the same license as the BizVektor Global Edition package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-25 02:01:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: BizVektor Global Edition\n"
+
+#. Theme Name of the plugin/theme
+msgid "BizVektor Global Edition"
+msgstr "BizVektor Global Edition"
+
+#. Description of the plugin/theme
+msgid "BizVektor theme will allow you to build a high-quality web site. It is possible to change the color, to switch to a completely different design. In addition, it is also possible to increase the number of designs by plug-ins."
+msgstr "BizVektor テーマは高品質なサイト構築をお手伝いをします。色を変更したり、まったく違うデザインに切り替えたりすることが可能です。また、プラグインを使ってデザインのバリエーションを増やすこともできます。"
+
+#. Template Name of the plugin/theme
+msgid "Child index page"
+msgstr "子インデックスページ"
+
+#. Template Name of the plugin/theme
+msgid "Sitemap（Slug:sitemap-page）"
+msgstr "サイトマップ (スラッグ: sitemap-page)"
+
+#: single.php:13
+msgid "Posted on"
+msgstr "投稿日"
+
+#: single.php:29
+msgid "<dt>Tags</dt><dd>%1$s</dd>"
+msgstr "<dt>投稿タグ</dt><dd>%1$s</dd>"
+
+#. Template Name of the plugin/theme
+msgid "Don't show contact at the bottom of the page"
+msgstr "ページ下問い合わせ非表示"
+
+#. Template Name of the plugin/theme
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: sidebar-post.php:10 single.php:15
+msgid "Category"
+msgstr "カテゴリー"
+
+#: module_topPR.php:15 module_topPR.php:33 module_topPR.php:51
+msgid "Image of %s"
+msgstr "%sのイメージ"
+
+#: module_topPR.php:22 module_topPR.php:40 module_topPR.php:58
+#: page-parent.php:52
+msgctxt "Link to page"
+msgid "Read more"
+msgstr "詳しくはこちら"
+
+#: search.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "ご指定の検索条件に合う投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: inc/theme-options.php:258
+msgid "Plain"
+msgstr "プレーン"
+
+#: inc/theme-options.php:292
+msgid "[ Select ]"
+msgstr "[ 選択 ]"
+
+#: inc/theme-options.php:574
+msgctxt "Font select"
+msgid "serif"
+msgstr "\"ＭＳ Ｐ明朝\",\"Hiragino Mincho Pro W6\",serif"
+
+#: inc/theme-options.php:576
+msgctxt "Font select"
+msgid "Meiryo,Osaka,sans-serif"
+msgstr "\"ヒラギノ角ゴ Pro W3\",\"Hiragino Kaku Gothic Pro\",\"メイリオ\",Meiryo,Osaka,\"ＭＳ Ｐゴシック\",\"MS PGothic\",sans-serif"
+
+#: inc/theme-options.php:643
+msgid "bnr_contact.png"
+msgstr "bnr_contact_ja.png"
+
+#: inc/theme-options.php:643 module_mainfoot.php:15
+msgid "Contact us by e-mail"
+msgstr "メールでお問い合わせはこちら"
+
+#: inc/theme-options.php:689
+msgid "Rich & Powerfull theme options"
+msgstr "豊富なオプション"
+
+#: inc/theme-options.php:690
+msgid "This area can be changed from the theme customizer as well as from the theme options section."
+msgstr "この部分はテーマオプション画面か、テーマカスタマイザーから変更する事が出来ます。"
+
+#: inc/theme-options.php:694
+msgid "Various designs available"
+msgstr "豊富なデザイン"
+
+#: inc/theme-options.php:695
+msgid "BizVektor will allow you not only to change the color of the site, but also to switch to a different design."
+msgstr "BizVektorはサイトの色を変更出来るだけではなく、違うデザインに切り替える事が出来ます。"
+
+#: inc/theme-options.php:699
+msgid "Optimized for business web sites"
+msgstr "ビジネス用に最適化"
+
+#: inc/theme-options.php:700
+msgid "Various indispensable business features as child page templates or enquiry capture are included."
+msgstr "子ページリスト用テンプレートや問い合わせへの誘導など、ビジネスに必須な様々な機能を備えています。"
+
+#: inc/theme-options.php:718
+msgid "Information"
+msgstr "インフォメーション"
+
+#: index.php:25
+msgid "Tags : "
+msgstr "タグ : "
+
+#: module_mainfoot.php:15
+msgid "bt_contact.png"
+msgstr "bt_contact_ja.png"
+
+#: module_pageTit.php:48 module_panList.php:28
+msgid "Not found"
+msgstr "見つかりません"
+
+#: inc/theme-options.php:184
+msgid "Right sidebar"
+msgstr "右サイドバー"
+
+#: inc/theme-options.php:158 module_pageTit.php:46 module_panList.php:30
+msgid "Search Results for : %s"
+msgstr "『%s』の検索結果"
+
+#: inc/theme-options.php:179
+msgid "Left sidebar"
+msgstr "左サイドバー"
+
+#: inc/theme-options.php:147 index.php:19 module_panList.php:155
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: inc/theme-options.php:145 index.php:21 module_panList.php:157
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: inc/theme-options-edit.php:514
+msgctxt "Slide not displayed"
+msgid "Do not display"
+msgstr "非表示にする"
+
+#: inc/theme-options-edit.php:515
+msgid "Open in a blank window"
+msgstr "別ウィンドウで開く"
+
+#: inc/theme-options-edit.php:523
+msgid "* The slideshow can be set to up to 5 images, but when accessing the site using a slow internet connection, because of the time it takes to display all images, the visitor might leave the page early onwhich might have a negative effect. Therefore using three or less images is recommended."
+msgstr "* スライドショーは最大５枚まで設定出来ますが、通信回線が遅い環境で閲覧した場合、表示に時間がかったり、ユーザーの離脱や検索エンジンからの減点対象となる為、３枚以内推奨です。"
+
+#: inc/theme-options-nav.php:3
+msgctxt "BizVektor option tab label"
+msgid "Design"
+msgstr "デザイン"
+
+#: inc/theme-options-nav.php:4
+msgctxt "BizVektor option tab label"
+msgid "Contact"
+msgstr "連絡先"
+
+#: inc/theme-options-nav.php:5
+msgctxt "BizVektor option tab label"
+msgid "TopPR"
+msgstr "3PRエリア"
+
+#: inc/theme-options-nav.php:7
+msgctxt "BizVektor option tab label"
+msgid "Homepage"
+msgstr "トップページ"
+
+#: inc/theme-options-nav.php:8
+msgctxt "BizVektor option tab label"
+msgid "Slide"
+msgstr "スライドショー"
+
+#: inc/theme-options.php:68 inc/theme-options.php:69
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: inc/theme-options-edit.php:509
+msgid "Select an image"
+msgstr "画像を選択"
+
+#: inc/theme-options-edit.php:511
+msgid "Alternate text"
+msgstr "代替テキスト"
+
+#: inc/theme-options-edit.php:508
+msgid "Image URL"
+msgstr "画像の URL"
+
+#: inc/theme-options-edit.php:289
+msgid "* If you fill in the blank, contact banner will be displayed in the sidebar."
+msgstr "* 入力すると自動的にお問い合わせバナーが表示されます。"
+
+#: inc/theme-options-edit.php:290
+msgid "If not, it does not appear."
+msgstr "空欄の場合はお問い合わせバナーは表示されません。"
+
+#: inc/theme-options-edit.php:314
+msgid "The display of the home page 3PR area."
+msgstr "3PRエリアの表示設定"
+
+#: inc/theme-options-edit.php:316
+msgid "Check this box if you do not want to see the 3PR area on the home page."
+msgstr "チェックを入れると3PRエリアが表示されなくなります。"
+
+#: inc/theme-options-edit.php:317
+msgid "Do not show the top 3PR area"
+msgstr "3PRエリアを表示しない"
+
+#: inc/theme-options-edit.php:325
+msgid "PR area"
+msgstr "PRエリア"
+
+#: inc/theme-options-edit.php:333
+msgid "Image (Desktop version)"
+msgstr "画像URL"
+
+#: inc/theme-options-edit.php:338
+msgid "310px width is recommended."
+msgstr "横 310px 程度推奨"
+
+#: inc/theme-options-edit.php:339
+msgid "Image (Smartphone version)"
+msgstr "スマホ用画像URL"
+
+#: inc/theme-options-edit.php:344
+msgid "120px by 120px is recommended."
+msgstr "120×120px 程度推奨"
+
+#: inc/theme-options-edit.php:352
+msgid "* If you are unsure about the image, you can leave this field blank."
+msgstr "* 画像はよくわからなければ空欄でも問題ありません。"
+
+#: inc/theme-options-edit.php:354
+msgid "* You can set different image for desktop and smartphone versions of the site."
+msgstr "* 画像を設定する場合はPC用（横幅310px程度高さ自由）とスマホ用（120px程度正方形）の２種類を登録して下さい。"
+
+#: inc/theme-options-edit.php:366
+msgid "Settings for [ %s ]."
+msgstr "「%s」の設定"
+
+#: inc/theme-options-edit.php:367
+msgid "* Does not appear if there are no posts."
+msgstr "* 記事が１件もない場合は表示されません。"
+
+#: inc/theme-options-edit.php:368
+msgid "* If the excerpt field is not empty, the content will appear in the &quot;excerpt&quot;. Otherwise, the text will be displayed in a certain number of"
+msgstr "* 『抜粋』は抜粋欄に記入があればその内容を、なければ本文文頭より一定の文字数を表示します。"
+
+#: inc/theme-options-edit.php:369
+msgid "<span class=\"alert\">Featured image of the article</span> is displayed."
+msgstr "<span class=\"alert\">画像は該当する各記事のアイキャッチ画像</span>が表示されます。"
+
+#: inc/theme-options-edit.php:370
+msgid "You can set the &quot;featured image&quot;, from the bottom right widget area of particular article edit screen."
+msgstr "アイキャッチ画像は各記事編集画面の右下のウィジェットから登録します。"
+
+#: inc/theme-options-edit.php:371
+msgid "If there is no widget, please check &quot;Featured image&quot; at the top right of the screen from the &quot;Screen options&quot; tab."
+msgstr "ウィジェットが無い場合は、画面右上の「表示」タブより「アイキャッチ画像」の項目にチェックを入れて下さい。"
+
+#: inc/theme-options-edit.php:378
+msgid "Change the title"
+msgstr "表記の変更"
+
+#: inc/theme-options-edit.php:380
+msgid "Display layout of &quot; %s &quot on the top page."
+msgstr "%s のトップページでの表示レイアウト"
+
+#: inc/theme-options-edit.php:384 inc/theme-options-edit.php:400
+msgid "Title only"
+msgstr "タイトルのみ"
+
+#: inc/theme-options-edit.php:385 inc/theme-options-edit.php:401
+msgid "With excerpt and thumbnail"
+msgstr "抜粋とサムネイル画像あり"
+
+#: inc/theme-options-edit.php:396
+msgid "Display layout of &quot; %s &quot on the archive page."
+msgstr "%s のアーカイブページでの表示レイアウト"
+
+#: inc/theme-options-edit.php:415
+msgid "Number of %s posts to be displayed on the home page."
+msgstr "トップページでの %s の表示件数"
+
+#: inc/theme-options-edit.php:416
+msgctxt "top page post count"
+msgid "posts"
+msgstr "件"
+
+#: inc/theme-options-edit.php:443
+msgid "Main visual"
+msgstr "メインビジュアル"
+
+#: inc/theme-options-edit.php:444
+msgid "You can use a slide show or a still image."
+msgstr "トップページのメインビジュアルについて、静止画またはスライドショーを設定出来ます。"
+
+#: inc/theme-options-edit.php:447
+msgid "Still image settings"
+msgstr "トップページ メインビジュアルの設定はこちら"
+
+#: inc/theme-options-edit.php:449
+msgid "Slide show settings"
+msgstr "トップページ スライドショーの設定はこちら"
+
+#: inc/theme-options-edit.php:454
+msgid "Home 3PR area"
+msgstr "トップページ3PRエリア"
+
+#: inc/theme-options-edit.php:457
+msgid "Settings for the Home page 3PR area are here"
+msgstr "トップページ3PRエリアの設定はこちら"
+
+#: inc/theme-options-edit.php:462
+msgid "The display of the home page side bar."
+msgstr "トップページのサイドバーの表示"
+
+#: inc/theme-options-edit.php:464
+msgid "Check this box if you do not want to display the side bar on the home page."
+msgstr "トップページのサイドバーを表示しない場合はチェックを入れて下さい。"
+
+#: inc/theme-options-edit.php:465
+msgid "I want to hide the sidebar"
+msgstr "サイドバーを非表示にする"
+
+#: inc/theme-options-edit.php:469
+msgid "Display a number of %s posts."
+msgstr "%s の表示件数"
+
+#: inc/theme-options-edit.php:471
+msgid "Please set from the [ Setting the %s ] section."
+msgstr "「%s の設定 」から設定ください。"
+
+#: inc/theme-options-edit.php:486
+msgid "Slideshow Settings"
+msgstr "スライドショーの設定"
+
+#: inc/theme-options-edit.php:487
+msgid "Please enter the URL of the image to be used in the slideshow."
+msgstr "スライドショーを設定する場合は表示する画像のURLなどを入力下さい。"
+
+#: inc/theme-options-edit.php:488
+msgid "The recommended size of the image is 950 x 250px."
+msgstr "画像の推奨サイズは950×250pxです。"
+
+#: inc/theme-options-edit.php:490
+msgid "Home page Main visual"
+msgstr "トップページのメインビジュアル"
+
+#: inc/theme-options-edit.php:491
+msgid "%s will be displayed if the slideshow is not set."
+msgstr "スライドショーが設定されていない場合は %s が表示されます。"
+
+#: inc/theme-options-edit.php:492
+msgid "It can be only the URL of an image. However, the link is set for the image if you enter a link URL."
+msgstr "画像のURLだけでも構いませんがリンク先を入力すると画像クリックでリンクするようになります。"
+
+#: inc/theme-options-edit.php:493
+msgid "Please type in the alternate text for the image."
+msgstr "代替テキストはその画像の内容を文字で入力して下さい。"
+
+#: inc/theme-options-edit.php:494
+msgid "When filled in, will be more likely to match the search."
+msgstr "記入した方がその内容で検索にヒットしやすくなります。"
+
+#: inc/theme-options-edit.php:495
+msgid "Moreover, for visually impaired visitors using a text-to-speech device, it reads out the text."
+msgstr "また、目の不自由な人が閲覧した際には音声読み上げブラウザがその文字を読み上げます。"
+
+#: inc/theme-options-edit.php:506
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: inc/theme-options-edit.php:216
+msgid "This setting can not be changed from the theme customizer."
+msgstr "この項目はテーマカスタマイザーからは設定出来ません。"
+
+#: inc/theme-options-edit.php:219
+msgid "google fonts"
+msgstr "Googleフォント"
+
+#: inc/theme-options-edit.php:222
+msgid "enable google font"
+msgstr "Googleフォントを有効にする"
+
+#: inc/theme-options-edit.php:247 inc/theme-options-edit.php:254
+#: inc/theme-options-edit.php:261 inc/theme-options-edit.php:269
+#: inc/theme-options-edit.php:278 inc/theme-options-edit.php:288
+msgid "ex) "
+msgstr "【記入例】"
+
+#: inc/theme-options-edit.php:247
+msgid "Please feel free to inquire."
+msgstr "お気軽にお問い合わせください。"
+
+#: inc/theme-options-edit.php:261
+msgid "Weekdays except holidays"
+msgstr "土・日・祝日除く"
+
+#: inc/theme-options-edit.php:265
+msgctxt "biz-vektor theme-customizer"
+msgid "Site / Company / Store / Service name. This is displayed in the left part of the footer bottom and footer copyright section."
+msgstr "フッター左下とフッターコピーライトに表示させるサイト名（あるいは企業名・店舗名・サービス名）"
+
+#: inc/theme-options-edit.php:269
+msgid "BizVektor, Inc."
+msgstr "BizVektor株式会社"
+
+#: inc/theme-options-edit.php:270
+msgid "* Use this feature when the site name has become too long for SEO purposes."
+msgstr "* 未記入の場合はサイトのタイトルが表示されます。<br />* SEO対策の為にサイト名が長くなってしまった場合に使用します。<br />* フッター左下はフッター画像が登録されている場合はその画像が表示され、ここで入力した内容はフッターロゴ画像の代替テキストとして反映されます。<br />* フッターのロゴ画像はデザインの設定より登録出来ます。"
+
+#: inc/theme-options-edit.php:275
+msgid "This is displayed in the left bottom part of the footer."
+msgstr "* フッター左下に表示されます"
+
+#: inc/theme-options-edit.php:279
+msgid "316, Minami Sakae Building,<br />1-22-16, Sakae, Naka-ku, Nagoya-shi,<br />Aichi 460-0008 JAPAN<br />TEL / FAX +81-52-228-9176"
+msgstr "〒000-000<br />愛知県あま市○○○丁目○○番地<br />TEL : 000-000-0000 / FAX : 000-000-0000"
+
+#: inc/theme-options-edit.php:288
+msgid "or"
+msgstr "または"
+
+#: inc/theme-options-edit.php:163
+msgid "[Top page] %s"
+msgstr "【トップページ】 このページの「%s」"
+
+#: inc/theme-options-edit.php:165
+msgid "[page] Edit Page > Page Attributes > Template"
+msgstr "【固定ページ】 各ページ編集画面のテンプレート選択ドロップダウン"
+
+#: inc/theme-options-edit.php:203
+msgid "Deployment of the sidebar menu"
+msgstr "サイドバーのメニューの展開"
+
+#: inc/theme-options-edit.php:205
+msgid "If the site hierarchy is deep, you can choose to hide this menu hierarchy other than the Page you are currently viewing."
+msgstr "階層が深いサイトの場合、サイドバーのメニュー数が多くなってしまうので、現在表示している固定ページの子階層以外のメニュー（第３階層以下）を非表示にする事が出来ます。"
+
+#: inc/theme-options-edit.php:207
+msgid "Display"
+msgstr "表示する"
+
+#: inc/theme-options-edit.php:207
+msgid "Hide"
+msgstr "隠す"
+
+#: inc/theme-options-edit.php:128
+msgid "Recommended : less than 60px height"
+msgstr "【 推奨サイズ　：　高さ60px以下 】　* 60pxより大きい場合は自動的に60pxに縮小します。"
+
+#: inc/theme-options-edit.php:136
+msgid "Recommended : 180-250px width"
+msgstr "【 推奨サイズ　：　180-250px 】 * 大きい場合は自動的に縮小します。"
+
+#: inc/theme-options-edit.php:158
+msgid "You can select 1-column from below: "
+msgstr "* １カラムについては、以下２つの方法で設定できます。"
+
+#: inc/theme-options-edit.php:162 inc/theme-options-edit.php:440
+msgid "Home page settings"
+msgstr "トップページの設定"
+
+#: inc/theme-options-edit.php:89
+msgid "* If there are settings for the particular design skin, after you save your changes, you can update them from theme customizer."
+msgstr "各デザイン固有のセッティング項目がある場合は、変更を保存した後で、テーマカスタマイザーより設定出来ます。"
+
+#: inc/theme-options-edit.php:127 inc/theme-options-edit.php:135
+#: inc/theme-options-edit.php:337 inc/theme-options-edit.php:343
+msgid "Select image"
+msgstr "画像を選択する。"
+
+#: inc/theme-options-edit.php:43
+msgid "Theme customizer"
+msgstr "テーマカスタマイザー"
+
+#: inc/theme-options-edit.php:44
+msgid "Thank you for using BizVektor."
+msgstr "BizVektorのご利用ありがとうございます。"
+
+#: inc/theme-options-edit.php:45
+msgid "You can change basic design settings from %s"
+msgstr "デザインなど基本的な設定は %s から行う事が出来ます。"
+
+#: inc/theme-options-edit.php:46
+msgid "Here you can change social media settings."
+msgstr "この画面では更に細かい項目やSNS連携などを設定します。"
+
+#: inc/theme-options-edit.php:62
+msgctxt "biz-vektor theme-options-edit"
+msgid "Design settings"
+msgstr "デザインの設定"
+
+#: inc/theme-options-edit.php:64 inc/theme-options-edit.php:239
+#: inc/theme-options-edit.php:307
+msgid "You can change settings for this section also from %s"
+msgstr "この項目は %s からも設定が可能です"
+
+#: inc/theme-options-edit.php:69
+msgid "Design skin"
+msgstr "デザイン"
+
+#: inc/theme-options-edit.php:72 inc/theme-options-edit.php:100
+msgid "Select"
+msgstr "選択"
+
+#: inc/theme-customizer.php:309
+msgctxt "biz-vektor theme-customizer"
+msgid "Image (Desktop version) : 310px width is recommended."
+msgstr "画像（横 310px 程度長方形推奨）"
+
+#: inc/theme-customizer.php:317
+msgctxt "biz-vektor theme-customizer"
+msgid "Image (Smartphone version) : 120px by 120px is recommended."
+msgstr "スマホ用画像（120×120px 程度推奨）"
+
+#: inc/theme-options-edit.php:20
+msgid "%s Theme Options"
+msgstr "%s テーマ設定"
+
+#: inc/theme-customizer.php:300 inc/theme-options-edit.php:331
+msgid "URL"
+msgstr "URL"
+
+#: inc/theme-customizer.php:293 inc/theme-options-edit.php:329
+msgid "Description"
+msgstr "説明"
+
+#: functions.php:583
+msgid "<span class=\"meta-nav\">&larr;</span> Older post"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: functions.php:584
+msgid "New post <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/theme-customizer.php:27
+msgctxt "biz-vektor theme-customizer"
+msgid "Design settings"
+msgstr "デザイン設定"
+
+#: inc/theme-customizer.php:78 inc/theme-options-edit.php:125
+msgctxt "biz-vektor theme-customizer"
+msgid "Header logo image"
+msgstr "ヘッダーロゴ画像"
+
+#: inc/theme-customizer.php:86
+msgctxt "biz-vektor theme-customizer"
+msgid "Header logo image URL"
+msgstr "ヘッダーロゴ画像URL"
+
+#: inc/theme-customizer.php:98 inc/theme-options-edit.php:133
+msgctxt "biz-vektor theme-customizer"
+msgid "Footer logo image"
+msgstr "フッターロゴ画像"
+
+#: inc/theme-customizer.php:106
+msgctxt "biz-vektor theme-customizer"
+msgid "Footer logo image URL"
+msgstr "フッターロゴ画像URL"
+
+#: inc/theme-customizer.php:114 inc/theme-options-edit.php:103
+msgctxt "biz-vektor theme-customizer"
+msgid "Not specified (left-justified)"
+msgstr "指定なし（左詰め）"
+
+#: inc/theme-customizer.php:115 inc/theme-options-edit.php:104
+msgctxt "biz-vektor theme-customizer"
+msgid "4"
+msgstr "4分割"
+
+#: inc/theme-customizer.php:116 inc/theme-options-edit.php:105
+msgctxt "biz-vektor theme-customizer"
+msgid "5"
+msgstr "5分割"
+
+#: inc/theme-customizer.php:117 inc/theme-options-edit.php:106
+msgctxt "biz-vektor theme-customizer"
+msgid "6"
+msgstr "6分割"
+
+#: inc/theme-customizer.php:118 inc/theme-options-edit.php:107
+msgctxt "biz-vektor theme-customizer"
+msgid "7"
+msgstr "7分割"
+
+#: inc/theme-customizer.php:120 inc/theme-options-edit.php:97
+msgctxt "biz-vektor theme-customizer"
+msgid "Number of header menus"
+msgstr "ヘッダーメニューの数"
+
+#: inc/theme-customizer.php:132 inc/theme-options-edit.php:141
+msgctxt "biz-vektor theme-customizer"
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/theme-customizer.php:140 inc/theme-options-edit.php:171
+msgctxt "biz-vektor theme-customizer"
+msgid "Heading font"
+msgstr "見出しの書体"
+
+#: inc/theme-customizer.php:145 inc/theme-customizer.php:156
+#: inc/theme-options-edit.php:174 inc/theme-options-edit.php:190
+msgctxt "biz-vektor theme-customizer"
+msgid "Serif"
+msgstr "明朝"
+
+#: inc/theme-customizer.php:146 inc/theme-customizer.php:157
+#: inc/theme-options-edit.php:174 inc/theme-options-edit.php:190
+msgctxt "biz-vektor theme-customizer"
+msgid "Sanserif"
+msgstr "ゴシック"
+
+#: inc/theme-customizer.php:151 inc/theme-options-edit.php:187
+msgctxt "biz-vektor theme-customizer"
+msgid "Global Menu font"
+msgstr "グローバルメニューの書体"
+
+#: inc/theme-customizer.php:167 inc/theme-options-edit.php:237
+msgctxt "biz-vektor theme-customizer"
+msgid "Contact settings"
+msgstr "連絡先の設定"
+
+#: inc/theme-customizer.php:220 inc/theme-options-edit.php:244
+msgctxt "biz-vektor theme-customizer"
+msgid "Message"
+msgstr "お問い合わせメッセージ"
+
+#: inc/theme-customizer.php:228 inc/theme-options-edit.php:251
+msgctxt "biz-vektor theme-customizer"
+msgid "Phone number"
+msgstr "電話番号"
+
+#: inc/theme-customizer.php:236 inc/theme-options-edit.php:258
+#: inc/theme-options-edit.php:261
+msgctxt "biz-vektor theme-customizer"
+msgid "Office hours"
+msgstr "受付時間"
+
+#: inc/theme-customizer.php:244
+msgctxt "biz-vektor theme-customizer"
+msgid "Site / Company / Store / Service name. This is displayed in the left bottom part of the footer."
+msgstr "サイト・企業名・店舗名・サービス名。フッター左下部分に表示されます。"
+
+#: inc/theme-customizer.php:252 inc/theme-options-edit.php:275
+msgctxt "biz-vektor theme-customizer"
+msgid "Company address"
+msgstr "住所"
+
+#: inc/theme-customizer.php:260 inc/theme-options-edit.php:285
+msgctxt "biz-vektor theme-customizer"
+msgid "The contact page URL"
+msgstr "問い合わせページのURL"
+
+#: inc/theme-customizer.php:271 inc/theme-options-edit.php:305
+msgid "3PR area settings"
+msgstr "トップページ3PRエリアの設定"
+
+#: inc/theme-customizer.php:284 inc/theme-options-edit.php:327
+msgid "Title"
+msgstr "タイトル"
+
+#: functions.php:582
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: functions.php:568 inc/theme-options.php:436 module_loop_post.php:18
+#: module_loop_post2.php:20 module_topPR.php:68 page-parent.php:54 page.php:14
+#: single.php:11
+msgid "Edit"
+msgstr "編集"
+
+#: functions.php:350 functions.php:354 functions.php:358
+msgctxt "Archive description"
+msgid "Article of %s."
+msgstr "%s の記事。"
+
+#: functions.php:375 inc/theme-options.php:165
+msgid "Page of %s"
+msgstr "%s ページ目"
+
+#: functions.php:548
+msgid "Your comment is awaiting approval."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: functions.php:558
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:346
+msgctxt "Yearly archive description"
+msgid "Article of %s."
+msgstr "%s年の投稿。"
+
+#: functions.php:349 inc/theme-options.php:145 index.php:21
+#: module_panList.php:157
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: functions.php:345 inc/theme-options.php:147 index.php:19
+#: module_panList.php:155
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: footer.php:60
+msgid "Free WordPress Theme BizVektor for business"
+msgstr "無料WordPressテーマ BizVektor(ビズベクトル)"
+
+#: functions.php:116
+msgid "Sidebar(Front page only)"
+msgstr "サイドバー（トップページ）"
+
+#: functions.php:118
+msgid "This widget area appears on the front page only."
+msgstr "トップページにのみ表示されるサイドバーウィジェットです。ドラッグ＆ドロップで必要なものだけ入れてください。バナーやブログパーツなどは、『テキスト』ウィジェットを使用して、ソースコードを張り付けられます。"
+
+#: functions.php:125
+msgid "Sidebar(Post content only)"
+msgstr "サイドバー（投稿ページ）"
+
+#: functions.php:127
+msgid "This widget area appears only on the post content pages."
+msgstr "投稿コンテンツのページにのみ表示されるウィジェットです。"
+
+#: functions.php:134
+msgid "Sidebar(Page content only)"
+msgstr "サイドバー（固定ページ）"
+
+#: functions.php:136
+msgid "This widget area appears only on the page content pages."
+msgstr "固定ページコンテンツのページにのみ表示されるウィジェットです。"
+
+#: functions.php:143
+msgid "Sidebar(Common top)"
+msgstr "サイドバー（共通・上）"
+
+#: functions.php:145
+msgid "This widget area appears at top of sidebar."
+msgstr "サイドバー上部に表示されるウィジェットです。"
+
+#: functions.php:152
+msgid "Sidebar(Common bottom)"
+msgstr "サイドバー（共通・下）"
+
+#: functions.php:154
+msgid "This widget area appears at bottom of sidebar."
+msgstr "サイドバー下部に表示されるウィジェットです。"
+
+#: functions.php:278 functions.php:279 functions.php:286
+msgid "Meta Keywords"
+msgstr "メタキーワード"
+
+#: functions.php:287
+msgid "To distinguish between individual keywords, please enter a , delimiter (optional)."
+msgstr "このページで個別に設定するキーワードを , 区切りで入力して下さい（任意）"
+
+#: functions.php:289
+msgid "* keywords common to the entire site can be set from %s."
+msgstr "※サイト全体に共通して設定するキーワードは %s から設定出来ます。"
+
+#: functions.php:335 functions.php:341
+msgid "About %s"
+msgstr "%s について"
+
+#: comments.php:23 comments.php:35
+msgid "Newer Comments &raquo;"
+msgstr "新しいコメント &raquo;"
+
+#: comments.php:22 comments.php:34
+msgid "&laquo; Older Comments"
+msgstr "&laquo; 古いコメント"
+
+#: bizvektor_themes/001/001_custom.php:75
+msgctxt "Default color settings"
+msgid "Default color settings"
+msgstr "Default カラー設定"
+
+#: bizvektor_themes/001/001_custom.php:83
+#: bizvektor_themes/003/003_custom.php:72
+msgid "Keycolor"
+msgstr "キーカラー"
+
+#: bizvektor_themes/001/001_custom.php:88
+#: bizvektor_themes/003/003_custom.php:77
+msgid "Keycolor(Light)"
+msgstr "キーカラー（明）※リンクにマウスオーバーした時の色です"
+
+#: bizvektor_themes/001/001_custom.php:93
+msgid "Keycolor(Dark)"
+msgstr "キーカラー（暗い）※メニューやフッターに奥行きを出します"
+
+#: bizvektor_themes/001/001_custom.php:107
+#: bizvektor_themes/002/002_custom.php:100
+#: bizvektor_themes/003/003_custom.php:47
+msgid "Set the color from theme customizer"
+msgstr "テーマカスタマイザーで色を設定する"
+
+#: bizvektor_themes/002/002_custom.php:79
+msgid "Calmly Setting"
+msgstr "Calmly 設定"
+
+#: bizvektor_themes/002/002_custom.php:86
+msgctxt "Calmly color settings"
+msgid "Keycolor"
+msgstr "キーカラー"
+
+#: bizvektor_themes/003/003_custom.php:60
+msgid "Rebuild color setting"
+msgstr "色設定を再構築"
+
+#: bizvektor_themes/003/003_custom.php:82
+msgid "Keycolor(VeryLight)"
+msgstr "キーカラー (VeryLight)"
+
+#: bizvektor_themes/003/functions_003.php:35 header.php:64
+msgid "Skip menu"
+msgstr "メニューを飛ばす"
+
+#: comments.php:19
+msgid "Comment"
+msgstr "コメント"
+
+#: 503.php:19
+msgid "Maintenance in progress."
+msgstr "只今メンテナンス作業中です。"
+
+#: attachment.php:49 module_loop_post2.php:26
+msgid "Read more"
+msgstr "続きを読む"
+
+#. Theme URI of the plugin/theme
+msgid "http://bizvektor.com/en/"
+msgstr "http://bizvektor.com/"
+
+#. Author of the plugin/theme
+msgid "Vektor,Inc."
+msgstr "Vektor,Inc."
+
+#. Author URI of the plugin/theme
+msgid "http://www.vektor-inc.co.jp"
+msgstr "http://www.vektor-inc.co.jp/"
